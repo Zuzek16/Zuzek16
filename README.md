@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Zuzek16
-- Started CSS on 10.10.2022
--         JS on 13.09.2022
--         HTML on 12.09.2022
+- Started learning CSS on 10.10.2022
+- JS on 13.09.2022 
+- HTML on 12.09.2022
+~~~~~~~~~~~~~~
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
